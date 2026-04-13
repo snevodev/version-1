@@ -9,7 +9,11 @@ initialization stage, step one is done once
 (b) git add . (To stage all file) 
 
 3. commit: git commit -m  (first commit)
-  After staging the next is commit were you write a commit message on what you have done
+  After staging the next is commit were you write a commit message on what you have done or what you did.
 
 4. push:
   git push -u origin main 
+
+  
+
+  NT: The default branch of github is main
