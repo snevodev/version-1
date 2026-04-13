@@ -7,3 +7,9 @@ initialization stage, step one is done once
 2. staging - when git begin to track the file and its changes and it is done as you keep updating your file.
 (a) git add <filename> (To stage one file)
 (b) git add . (To stage all file) 
+
+3. commit: git commit -m  (first commit)
+  After staging the next is commit were you write a commit message on what you have done
+
+4. push:
+  git push -u origin main 
