@@ -17,3 +17,9 @@ initialization stage, step one is done once
   
 
   NT: The default branch of github is main
+
+
+
+  git branch branch-name : this is used to create a branch .
+
+  git checkout branch-name : this is used to navigate into a main branch
