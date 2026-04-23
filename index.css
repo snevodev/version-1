@@ -22,3 +22,9 @@ header {
   background-color: red;
   color: white;
 }
+
+footer {
+  background-color:cornflowerblue;
+  color: white;
+  padding: 4rem  0;
+}
